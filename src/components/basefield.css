@@ -1,0 +1,21 @@
+.basefield {
+    background-color: white; /* Fundo branco para destacar */
+    padding: 80px; /* Espaçamento interno */
+    border-radius: 10px; /* Cantos arredondados */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    text-align: center; /* Centraliza o texto */
+    width: 80%; /* Define a largura */
+    max-width: 600px; /* Limita o tamanho */
+    margin: auto; /* Centraliza na tela */
+  }
+  
+  /* Para garantir que a página esteja centralizada */
+  body {
+    background-color: purple; /* Cor de fundo principal */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
